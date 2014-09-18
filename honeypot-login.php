@@ -1,6 +1,6 @@
 <?php
 /*
-Arasy Fake Admin v.1.0
+Honeypot Login v.1.0
 Author : Dimaz Arno
 Email  : dimazarno@gmail.com
 Date   : 09-09-2014
