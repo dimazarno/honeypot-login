@@ -1,7 +1,7 @@
 Honeypot Login
 ==============
 
-![honeypot login](/http://2.bp.blogspot.com/-Im_WCOO4CCk/VBrjR8TLCQI/AAAAAAAAAZM/YGqEMUttmgk/s1600/honeypot-login-thumb.jpg)
+![honeypot login](http://2.bp.blogspot.com/-Im_WCOO4CCk/VBrjR8TLCQI/AAAAAAAAAZM/YGqEMUttmgk/s1600/honeypot-login-thumb.jpg)
 
 Hackers usually trying to gain privileges via a website login page, it need a little trick to handle it, move your login page with directory name that is not common, example: /admin_is_g00d or /n0_4dm1n_h3r3, then create another directory with a common name such as /admin or /login which containing a honeypot login. 
 
