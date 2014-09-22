@@ -29,4 +29,4 @@ Honeypot Login also equipped with:
 - Integrated with ipinfo.org API, up to 1000 requests per day! if you need beyond that you can contact ipinfo.org for further info. 
 - 100% safe, not connected to any database (to avoid another attack)
 
-More Information : [http://dimazarno.blogspot.com/2014/09/honeypot-login.html](http://dimazarno.blogspot.com/2014/09/honeypot-login.html)
+More Information : [http://www.ethic.ninja/2014/09/honeypot-login.html](http://www.ethic.ninja/2014/09/honeypot-login.html)
